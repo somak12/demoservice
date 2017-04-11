@@ -1,0 +1,16 @@
+C:\Users\gtoadmin\projects\demoservice\bin\Debug\netcoreapp1.1\demoservice.deps.json
+C:\Users\gtoadmin\projects\demoservice\bin\Debug\netcoreapp1.1\demoservice.runtimeconfig.json
+C:\Users\gtoadmin\projects\demoservice\bin\Debug\netcoreapp1.1\demoservice.runtimeconfig.dev.json
+C:\Users\gtoadmin\projects\demoservice\bin\Debug\netcoreapp1.1\demoservice.dll
+C:\Users\gtoadmin\projects\demoservice\bin\Debug\netcoreapp1.1\demoservice.pdb
+C:\Users\gtoadmin\projects\demoservice\obj\Debug\netcoreapp1.1\demoservice.AssemblyInfo.cs
+C:\Users\gtoadmin\projects\demoservice\obj\Debug\netcoreapp1.1\demoservice.dll
+C:\Users\gtoadmin\projects\demoservice\obj\Debug\netcoreapp1.1\demoservice.pdb
+C:\Users\gtoadmin\projects\git\demoservice\bin\Debug\netcoreapp1.1\demoservice.deps.json
+C:\Users\gtoadmin\projects\git\demoservice\bin\Debug\netcoreapp1.1\demoservice.runtimeconfig.json
+C:\Users\gtoadmin\projects\git\demoservice\bin\Debug\netcoreapp1.1\demoservice.runtimeconfig.dev.json
+C:\Users\gtoadmin\projects\git\demoservice\bin\Debug\netcoreapp1.1\demoservice.dll
+C:\Users\gtoadmin\projects\git\demoservice\bin\Debug\netcoreapp1.1\demoservice.pdb
+C:\Users\gtoadmin\projects\git\demoservice\obj\Debug\netcoreapp1.1\demoservice.AssemblyInfo.cs
+C:\Users\gtoadmin\projects\git\demoservice\obj\Debug\netcoreapp1.1\demoservice.dll
+C:\Users\gtoadmin\projects\git\demoservice\obj\Debug\netcoreapp1.1\demoservice.pdb
